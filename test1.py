@@ -1,5 +1,7 @@
-lst= [23,54,56,67,78,45,23,21,45,65,34,23,67]
+def lunch(food):
+    for x in food:
+        print(x)
 
-for x in lst:
-    k= x+1
-    if
+
+fruit = ['banana', 'cherry', 'apple']
+lunch(fruit)
